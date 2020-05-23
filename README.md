@@ -4,6 +4,10 @@
 
 ### Command Line
 
+Open :
+
+> redis-cli
+
 ```
 * SET <name> value
 * GET <name>
@@ -31,3 +35,8 @@
 * HKEYS <NAME>  //return keys
 * SAVE // create snapshot
 ```
+
+### Application Instructions
+
+> npm install
+> node app.js
